@@ -1,0 +1,9 @@
+{
+    "name": "Test Plugin",
+    "id" : "TestPlugin",
+    "author": "Colman Hartinger",
+    "version": "0.1.0",
+    "description": "Does random stuff to interact with cura platform.",
+    "supported_sdk_versions": ["7.0.0", "6.3.0"],
+    "i18n-catalog": "test-plugin"
+}
